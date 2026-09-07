@@ -1,0 +1,2 @@
+# Javis ollama
+ ia offiline 
